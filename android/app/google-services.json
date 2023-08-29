@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442986377683",
+    "project_id": "ostad-flutter-practice",
+    "storage_bucket": "ostad-flutter-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442986377683:android:cf97fe2d915a699bb3bf26",
+        "android_client_info": {
+          "package_name": "com.firebaseintro.firebase_intro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442986377683-42pkb9sk806p2lcqv6qjkkca2cgtf99a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs1Gp60otFWi4dSCgowoZLOrxqWeFm6u8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442986377683-42pkb9sk806p2lcqv6qjkkca2cgtf99a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
